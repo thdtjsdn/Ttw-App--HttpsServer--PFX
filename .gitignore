@@ -1,3 +1,7 @@
+.ssl/cha.pem
+.ssl/crt.pem
+.ssl/key.pem
+
 # Logs
 logs
 *.log
